@@ -1,1 +1,1 @@
-![clrium.jpg](clrium4.png)
+![clrium.jpg](clrium6-concurrency/logo-on-white.jpg)
